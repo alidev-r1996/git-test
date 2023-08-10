@@ -9,3 +9,5 @@ const register = (name)=>{
 const auth = (name)=>{
   console.log(name)
 }
+
+const getme = ()=>false
