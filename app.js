@@ -6,8 +6,4 @@ const auth = (name)=>{
   console.log(name)
 }
 
-const test = ()=>true
-
-const register = (name)=>console.log(name)
-
-console.log("conflict")
+const getme = (name)=>false
