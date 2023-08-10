@@ -7,3 +7,5 @@ const auth = (name)=>{
 }
 
 const test = ()=>true
+
+const register = (name)=>console.log(name)
