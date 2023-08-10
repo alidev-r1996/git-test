@@ -10,3 +10,5 @@ console.log(name)
 const register = (name)=>{
     console.log(name)
 }
+
+const getme = (name)=>false
