@@ -7,3 +7,5 @@ const auth = (name)=>{
 }
 
 const getme = (name)=>false
+
+const newfuncs = ()=>true
